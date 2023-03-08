@@ -20,5 +20,3 @@ function createPicMaker(items) {
 new SimpleLightbox('.gallery a', { captionDelay: 250, navText: ['←','→'] });
 
 console.log(galleryItems);
-
-// ===

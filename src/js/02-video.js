@@ -13,5 +13,3 @@ player.on('texttrackchange', onPlay)
 
 player.setCurrentTime(localStorage.getItem('videoplayer-current-time'));
 player.setColor('#fac002');
-
-// ====
