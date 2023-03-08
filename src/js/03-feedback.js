@@ -1,4 +1,4 @@
-//// ⚡ =========== Робочій варіант ('msg' & 'email') => JSON ========
+//// ⚡ =========== Робочій варіант ('msg' & 'email') => JSON ===========
 
 import throttle from 'lodash.throttle';
 
